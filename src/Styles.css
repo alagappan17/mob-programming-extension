@@ -1,0 +1,9 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+.userContainer {
+    display: flex;
+    padding: 20px;
+}
